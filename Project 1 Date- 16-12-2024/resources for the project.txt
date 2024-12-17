@@ -1,0 +1,32 @@
+1:  font awesome icons and cdn 
+
+CDN :  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<i class="fa-brands fa-squarespace"></i>  icon used for hero section for section 1 
+
+
+Background color: #cbdee7  light skyblue 
+
+font color : #234555  dark blue type 
+
+link the font file : 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+
+font family style : 
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+about section background color : #b6d5e4
+
+
+OUR SCtion background color: #cbdee7
+
+
+coin icon :  <i class="fa-thin fa-coin-vertical"></i>
